@@ -34,11 +34,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 É um app que ajuda a registrar os hábitos diários.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://angeloartur.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/PBG5Tun50nvrdbm5wUi0Wi/Habits-(e)-(Community)?node-id=75%3A128&t=7Cjqd6YMuElh3nbr-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
